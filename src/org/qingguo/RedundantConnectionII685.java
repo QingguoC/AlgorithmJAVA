@@ -19,7 +19,7 @@ public class RedundantConnectionII685 {
                 edge[0] = -1;
                 edge[1] = -1;
             }
-            parents[v] = u; 
+            parents[v] = u;
         }
         for (int[] edge : edges){
             int u = edge[0];
