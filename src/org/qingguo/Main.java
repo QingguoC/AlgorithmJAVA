@@ -19,5 +19,6 @@ public class Main {
         q.add(3);
         System.out.println(q.size());
         System.out.println(false ^ false);
+        System.out.println(Integer.parseInt("3"));
     }
 }
